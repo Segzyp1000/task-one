@@ -18,3 +18,4 @@ currentDay.innerText = days[dayIndex];
 
 slackEmail.innerText = "segunolowoyeye@gmail.com";
 
+
