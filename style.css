@@ -36,10 +36,13 @@ a:hover {
   color: #23527c;
 }
 
+.sec {
+    margin-top: 5rem;
+}
+
 img {
     max-width: 100%;
     width: 100%;
-  
   border-radius: 50%;
   margin: auto;
 }
